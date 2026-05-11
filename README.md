@@ -30,7 +30,21 @@ Analysed **two years of retail transaction data** (2021–2022) for E1X Store ac
 
 ---
 
-## 📁 Repository Contents
+## 📸 Dashboard Preview
+
+### Main Dashboard — KPIs, Regional & Monthly Trends
+![Main Dashboard](Screenshot%202026-05-11%20153342.png)
+
+### Items Insight — Product Performance & Summary Table
+![Items Insight](Screenshot%202026-05-11%20153607.png)
+
+### Reps Performance — Sales Rep Rankings
+![Reps Performance](Screenshot%202026-05-11%20153633.png)
+
+### Excel Dashboard — Full Interactive View
+![Excel Dashboard](Screenshot%202026-05-11%20154024.png)
+
+---
 
 ```
 e1x-store-sales-analysis/
@@ -98,4 +112,3 @@ Built an interactive Power BI dashboard with:
 🌐 [Portfolio Website](https://aliyugosta.github.io)
 
 > *Open to remote Data Analyst roles with US and European companies.*
-
